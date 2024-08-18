@@ -32,6 +32,8 @@
   <setting channel="11" controller="12" command_string="local_Tint"/>
   <setting channel="11" controller="11" command_string="local_Temperature"/>
   <setting channel="11" controller="18" command_string="local_Amount"/>
+  <setting channel="11" controller="10" command_string="ChangeFeatherSize"/>
+  <setting channel="11" controller="9" command_string="ChangeBrushSize"/>
   <setting channel="11" note="37" command_string="MaskAddPeople"/>
   <setting channel="11" note="33" command_string="MaskAddRad"/>
   <setting channel="11" note="32" command_string="MaskAddGrad"/>
