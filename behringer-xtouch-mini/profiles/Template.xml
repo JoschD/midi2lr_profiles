@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="22" command_string="Prev"/>
+  <setting channel="11" note="46" command_string="Prev"/>
+  <setting channel="11" note="38" command_string="Next"/>
+  <setting channel="11" note="14" command_string="Next"/>
+  <setting channel="11" note="23" command_string="ZoomOutLargeStep"/>
+  <setting channel="11" note="47" command_string="ZoomOutLargeStep"/>
+  <setting channel="11" note="39" command_string="ZoomInLargeStep"/>
+  <setting channel="11" note="15" command_string="ZoomInLargeStep"/>
+  <setting channel="11" note="21" command_string="ActionSeries6"/>
+  <setting channel="11" note="45" command_string="ActionSeries6"/>
+  <setting channel="11" note="44" command_string="ActionSeries5"/>
+  <setting channel="11" note="20" command_string="ActionSeries5"/>
+  <setting channel="11" note="19" command_string="ActionSeries4"/>
+  <setting channel="11" note="43" command_string="ActionSeries4"/>
+  <setting channel="11" note="42" command_string="ActionSeries3"/>
+  <setting channel="11" note="18" command_string="ActionSeries3"/>
+  <setting channel="11" note="41" command_string="ActionSeries2"/>
+  <setting channel="11" note="17" command_string="ActionSeries2"/>
+  <setting channel="11" note="16" command_string="ActionSeries1"/>
+  <setting channel="11" note="40" command_string="ActionSeries1"/>
+</settings>

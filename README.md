@@ -10,7 +10,7 @@ CONTENTS:
 
 behringer-xtouch-mini/overlay:
 	Printable overlay in svg and png for the device.
-	Width needs to be 23.5 cm!
+	Width needs to be 25.3 cm!
 
 behringer-xtouch-mini/presets.txt:
 	Basic configuration for MIDI2LR.
