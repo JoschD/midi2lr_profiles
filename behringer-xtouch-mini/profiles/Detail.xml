@@ -5,8 +5,6 @@
   <setting channel="11" controller="1" command_string="Sharpness"/>
   <setting channel="11" note="14" command_string="ConvertToGrayscale"/>
   <setting channel="11" note="46" command_string="Key1"/>
-  <setting channel="11" note="15" command_string="ZoomInLargeStep"/>
-  <setting channel="11" note="23" command_string="ZoomOutLargeStep"/>
   <setting channel="11" note="13" command_string="EnableDetail"/>
   <setting channel="11" controller="2" command_string="SharpenRadius"/>
   <setting channel="11" note="12" command_string="AdjustmentBrush"/>
@@ -17,7 +15,6 @@
   <setting channel="11" controller="4" command_string="SharpenEdgeMasking"/>
   <setting channel="11" note="8" command_string="CropOverlay"/>
   <setting channel="11" controller="7" command_string="LuminanceNoiseReductionContrast"/>
-  <setting channel="11" note="39" command_string="ZoomInLargeStep"/>
   <setting channel="11" note="0" command_string="ResetSharpness"/>
   <setting channel="11" controller="15" command_string="ColorNoiseReduction"/>
   <setting channel="11" note="32" command_string="CropOverlay"/>
@@ -34,7 +31,6 @@
   <setting channel="11" controller="11" command_string="Sharpness"/>
   <setting channel="11" note="36" command_string="AdjustmentBrush"/>
   <setting channel="11" note="38" command_string="ConvertToGrayscale"/>
-  <setting channel="11" note="47" command_string="ZoomOutLargeStep"/>
   <setting channel="11" controller="6" command_string="LuminanceNoiseReductionDetail"/>
   <setting channel="11" note="9" command_string="SpotRemoval"/>
   <setting channel="11" note="24" command_string="ResetSharpness"/>

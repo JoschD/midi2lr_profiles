@@ -37,14 +37,12 @@
   <setting channel="11" controller="11" command_string="HueAdjustmentRed"/>
   <setting channel="11" note="13" command_string="EnableColorAdjustments"/>
   <setting channel="11" note="37" command_string="EnableColorAdjustments"/>
-  <setting channel="11" note="22" command_string="Prev"/>
-  <setting channel="11" note="46" command_string="Prev"/>
-  <setting channel="11" note="14" command_string="Next"/>
-  <setting channel="11" note="38" command_string="Next"/>
-  <setting channel="11" note="23" command_string="ZoomOutLargeStep"/>
-  <setting channel="11" note="47" command_string="ZoomOutLargeStep"/>
-  <setting channel="11" note="15" command_string="ZoomInLargeStep"/>
-  <setting channel="11" note="39" command_string="ZoomInLargeStep"/>
+  <setting channel="11" note="22" command_string="AutoTone"/>
+  <setting channel="11" note="46" command_string="WhiteBalanceAuto"/>
+  <setting channel="11" note="39" command_string="Fine16"/>
+  <setting channel="11" note="15" command_string="Fine4"/>
+  <setting channel="11" note="38" command_string="ZoomTo100"/>
+  <setting channel="11" note="14" command_string="ToggleZoomOffOn"/>
   <setting channel="11" note="11" command_string="ActionSeries9"/>
   <setting channel="11" note="35" command_string="ActionSeries9"/>
   <setting channel="11" note="34" command_string="ActionSeries8"/>
@@ -65,4 +63,6 @@
   <setting channel="11" note="41" command_string="ActionSeries2"/>
   <setting channel="11" note="16" command_string="ActionSeries1"/>
   <setting channel="11" note="40" command_string="ActionSeries1"/>
+  <setting channel="11" note="23" command_string="Key1"/>
+  <setting channel="11" note="47" command_string="Key1"/>
 </settings>

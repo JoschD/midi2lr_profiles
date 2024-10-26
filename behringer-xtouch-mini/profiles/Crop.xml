@@ -38,14 +38,15 @@
   <setting channel="11" note="40" command_string="ActionSeries1"/>
   <setting channel="11" note="16" command_string="ActionSeries1"/>
   <setting channel="11" note="22" command_string="Key2"/>
-  <setting channel="11" note="38" command_string="Key2"/>
   <setting channel="11" note="46" command_string="Key2"/>
   <setting channel="11" note="37" command_string="Key2"/>
   <setting channel="11" note="13" command_string="Key2"/>
-  <setting channel="11" note="47" command_string="Unmapped"/>
-  <setting channel="11" note="23" command_string="Unmapped"/>
-  <setting channel="11" note="15" command_string="Unmapped"/>
-  <setting channel="11" note="39" command_string="Unmapped"/>
+  <setting channel="11" note="23" command_string="Key1"/>
+  <setting channel="11" note="47" command_string="Key1"/>
+  <setting channel="11" note="39" command_string="Fine16"/>
+  <setting channel="11" note="15" command_string="Fine4"/>
+  <setting channel="11" note="38" command_string="ZoomTo100"/>
+  <setting channel="11" note="14" command_string="ToggleZoomOffOn"/>
   <setting channel="11" note="5" command_string="Unmapped"/>
   <setting channel="11" controller="16" command_string="Unmapped"/>
   <setting channel="11" note="36" command_string="AdjustmentBrush"/>
@@ -54,5 +55,4 @@
   <setting channel="11" note="11" command_string="RadialFilter"/>
   <setting channel="11" note="10" command_string="GraduatedFilter"/>
   <setting channel="11" note="12" command_string="AdjustmentBrush"/>
-  <setting channel="11" note="14" command_string="Unmapped"/>
 </settings>
